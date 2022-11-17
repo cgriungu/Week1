@@ -1,3 +1,57 @@
-body{background-color: aqua;
-    font-size: 20px;
-}
+body{
+    background-color: beige;
+    margin: 50px 100px 100px 50px;
+    }
+head{
+    font-family: Arial;
+    font-size: 250%;
+    font-weight: 200%;
+    align-content: center;
+    }
+h1  {
+    color: black;
+    font-family: Arial;
+    font-size: 150%;
+    font-weight: 100;
+    }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    }
+h2 {
+    color: black;
+    font-family: Arial;
+    font-size: 100%;
+    font-weight: 100%;
+    }
+p   {
+    color: black;
+    font-family: Arial;
+    font-size: 100%;   
+    }
+h3  {        
+    color: black;
+    font-family: Arial;
+    font-size: 100%;
+    font-weight: 100%;
+    }
+ul  {
+    color: black;
+    font-family: Arial;
+    font-size: 100;
+    }
+ol  {
+    color: black;
+    font-family: Arial;
+    font-size: 100;
+    }
+table{
+    border: 50%;
+    text-align: left;
+    table-layout: auto;
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
