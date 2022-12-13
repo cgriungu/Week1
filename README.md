@@ -6,6 +6,6 @@ description of project:This is my landing page with a brief description about me
 
 project setup instructions:click on the link provided or copy/paste on browser.
 
-link to live site on GitHub Pages:
+link to live site on GitHub Pages: https://cgriungu.github.io/Week1/
 
 copyright and license information:Copyright Nov.2022.Christine-Riungu
